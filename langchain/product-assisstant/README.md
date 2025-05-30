@@ -14,8 +14,10 @@ This is an AI-powered product assistant built using **LangChain**, **OpenAI Embe
 Make sure you have Python 3.8+ installed.
 
 ```bash
-git clone https://github.com/your-username/product-assistant.git
-cd product-assistant
+git clone https://github.com/IpsheetaSahoo/AgenticAI_1.git
+
+cd langchain
+cd product-assisstant
 pip install -r requirements.txt
 
 
