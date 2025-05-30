@@ -29,3 +29,7 @@ Thumbs.db
 app/chroma_store/
 app/chroma*/  # Covers all variations like chroma_store, chroma_data, etc.
 
+/app/chroma_store/
+*.bin
+chroma.sqlite3
+
