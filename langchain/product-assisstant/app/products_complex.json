@@ -1,0 +1,92 @@
+{
+  "iPhone 15 Pro Max": {
+    "product_name": "iPhone 15 Pro Max",
+    "product_details": "Apple's latest flagship phone with enhanced durability and powerful performance.",
+    "price_usd": 1199,
+    "features": ["A17 Pro chip", "Titanium body", "6.7-inch Super Retina XDR display", "5G support", "Dynamic Island"],
+    "category": "Smartphone",
+    "release_year": 2023,
+    "brand": "Apple"
+  },
+  "Sony WH-1000XM5": {
+    "product_name": "Sony WH-1000XM5",
+    "product_details": "Noise-cancelling headphones designed for premium sound and long battery life.",
+    "price_usd": 399,
+    "features": ["30 hours battery", "Adaptive Sound Control", "Touch controls", "Multipoint connectivity"],
+    "category": "Headphones",
+    "release_year": 2022,
+    "brand": "Sony"
+  },
+  "MacBook Air M2": {
+    "product_name": "MacBook Air M2",
+    "product_details": "Sleek ultrabook with Apple silicon designed for everyday productivity.",
+    "price_usd": 1099,
+    "features": ["Apple M2 chip", "18-hour battery", "13.6-inch Liquid Retina display", "Fanless design"],
+    "category": "Laptop",
+    "release_year": 2022,
+    "brand": "Apple"
+  },
+  "Samsung Galaxy S24 Ultra": {
+    "product_name": "Samsung Galaxy S24 Ultra",
+    "product_details": "Top-tier Android smartphone with an ultra high-resolution camera.",
+    "price_usd": 1299,
+    "features": ["200MP main camera", "Snapdragon 8 Gen 3", "S Pen", "Quad HD+ display"],
+    "category": "Smartphone",
+    "release_year": 2024,
+    "brand": "Samsung"
+  },
+  "DJI Mini 4 Pro": {
+    "product_name": "DJI Mini 4 Pro",
+    "product_details": "Compact drone for aerial photography and videography.",
+    "price_usd": 759,
+    "features": ["4K HDR video", "Tri-directional obstacle sensing", "34-min flight time", "FocusTrack"],
+    "category": "Drone",
+    "release_year": 2023,
+    "brand": "DJI"
+  },
+  "Ecovacs Deebot X2 Omni": {
+    "product_name": "Ecovacs Deebot X2 Omni",
+    "product_details": "High-end robot vacuum with mopping and smart mapping.",
+    "price_usd": 1399,
+    "features": ["Auto mop washing", "Self-empty station", "AI object detection", "LiDAR navigation"],
+    "category": "Home Appliance",
+    "release_year": 2023,
+    "brand": "Ecovacs"
+  },
+  "Sony ZV-E1": {
+    "product_name": "Sony ZV-E1",
+    "product_details": "Professional mirrorless camera for content creators.",
+    "price_usd": 2199,
+    "features": ["Full-frame sensor", "Cinematic Vlog settings", "AI autofocus", "5-axis stabilization"],
+    "category": "Camera",
+    "release_year": 2023,
+    "brand": "Sony"
+  },
+  "Amazon Kindle Paperwhite": {
+    "product_name": "Amazon Kindle Paperwhite",
+    "product_details": "Lightweight e-reader perfect for avid book readers.",
+    "price_usd": 149,
+    "features": ["6.8-inch glare-free screen", "Waterproof", "Adjustable warm light", "10 weeks battery"],
+    "category": "E-Reader",
+    "release_year": 2021,
+    "brand": "Amazon"
+  },
+  "HP Spectre x360": {
+    "product_name": "HP Spectre x360",
+    "product_details": "Convertible laptop with touch and pen support.",
+    "price_usd": 1299,
+    "features": ["OLED display", "360° hinge", "Intel Evo certified", "Windows Hello"],
+    "category": "Laptop",
+    "release_year": 2023,
+    "brand": "HP"
+  },
+  "Anker 737 Power Bank": {
+    "product_name": "Anker 737 Power Bank",
+    "product_details": "High-capacity portable charger for fast device charging.",
+    "price_usd": 159,
+    "features": ["24,000mAh capacity", "140W output", "Smart digital display", "3-port charging"],
+    "category": "Power Bank",
+    "release_year": 2022,
+    "brand": "Anker"
+  }
+}

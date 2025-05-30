@@ -1,0 +1,11 @@
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+flask
+chromadb
+jq
+streamlit

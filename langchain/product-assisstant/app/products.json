@@ -1,0 +1,102 @@
+{
+  "iPhone 15 Pro Max": {
+    "product_name": "iPhone 15 Pro Max",
+    "product_details": "Apple's latest flagship with A17 Pro chip, titanium body, and 6.7-inch display.",
+    "price_usd": 1199
+  },
+  "Sony WH-1000XM5": {
+    "product_name": "Sony WH-1000XM5",
+    "product_details": "Industry-leading noise cancelling headphones with 30 hours battery life.",
+    "price_usd": 399
+  },
+  "MacBook Air M2": {
+    "product_name": "MacBook Air M2",
+    "product_details": "Lightweight laptop with Apple M2 chip and 18-hour battery life.",
+    "price_usd": 1099
+  },
+  "Samsung Galaxy S24 Ultra": {
+    "product_name": "Samsung Galaxy S24 Ultra",
+    "product_details": "Flagship Android phone with 200MP camera and Snapdragon 8 Gen 3 chip.",
+    "price_usd": 1299
+  },
+  "Dell XPS 13": {
+    "product_name": "Dell XPS 13",
+    "product_details": "Premium ultrabook with Intel Evo certification and InfinityEdge display.",
+    "price_usd": 999
+  },
+  "Google Pixel 8 Pro": {
+    "product_name": "Google Pixel 8 Pro",
+    "product_details": "Google's premium phone with Tensor G3 chip and pro-level camera tools.",
+    "price_usd": 999
+  },
+  "OnePlus 12": {
+    "product_name": "OnePlus 12",
+    "product_details": "Flagship killer with Snapdragon 8 Gen 2 and fast 100W charging.",
+    "price_usd": 799
+  },
+  "iPad Pro 12.9": {
+    "product_name": "iPad Pro 12.9",
+    "product_details": "High-performance tablet with M2 chip and ProMotion display.",
+    "price_usd": 1099
+  },
+  "AirPods Pro 2": {
+    "product_name": "AirPods Pro 2",
+    "product_details": "Apple’s active noise cancelling earbuds with spatial audio.",
+    "price_usd": 249
+  },
+  "Fitbit Versa 4": {
+    "product_name": "Fitbit Versa 4",
+    "product_details": "Fitness smartwatch with heart rate tracking and 6-day battery.",
+    "price_usd": 199
+  },
+  "Lenovo Yoga Slim 7i": {
+    "product_name": "Lenovo Yoga Slim 7i",
+    "product_details": "Ultra-thin Intel-powered laptop with sleek aluminum build.",
+    "price_usd": 899
+  },
+  "Asus ROG Zephyrus G14": {
+    "product_name": "Asus ROG Zephyrus G14",
+    "product_details": "Compact gaming laptop with Ryzen 9 and RTX 4060 GPU.",
+    "price_usd": 1599
+  },
+  "Samsung Galaxy Watch 6": {
+    "product_name": "Samsung Galaxy Watch 6",
+    "product_details": "WearOS smartwatch with health tracking and rotating bezel.",
+    "price_usd": 349
+  },
+  "Amazon Kindle Paperwhite": {
+    "product_name": "Amazon Kindle Paperwhite",
+    "product_details": "Waterproof e-reader with 6.8-inch glare-free display.",
+    "price_usd": 149
+  },
+  "Microsoft Surface Pro 9": {
+    "product_name": "Microsoft Surface Pro 9",
+    "product_details": "2-in-1 tablet with detachable keyboard and Windows 11.",
+    "price_usd": 1199
+  },
+  "Bose QuietComfort Ultra": {
+    "product_name": "Bose QuietComfort Ultra",
+    "product_details": "Over-ear headphones with adaptive noise cancellation.",
+    "price_usd": 429
+  },
+  "HP Spectre x360": {
+    "product_name": "HP Spectre x360",
+    "product_details": "Convertible laptop with OLED touchscreen and pen input.",
+    "price_usd": 1299
+  },
+  "Realme GT Neo 5": {
+    "product_name": "Realme GT Neo 5",
+    "product_details": "Midrange phone with 240W fast charging and AMOLED display.",
+    "price_usd": 499
+  },
+  "Garmin Forerunner 265": {
+    "product_name": "Garmin Forerunner 265",
+    "product_details": "Running smartwatch with AMOLED screen and advanced GPS.",
+    "price_usd": 449
+  },
+  "Nothing Phone 2": {
+    "product_name": "Nothing Phone 2",
+    "product_details": "Minimalist Android phone with Glyph interface and unique design.",
+    "price_usd": 699
+  }
+}
