@@ -26,8 +26,6 @@ Thumbs.db
 
 
 # LangChain vector stores
-app/chroma_store/
-app/chroma*/  # Covers all variations like chroma_store, chroma_data, etc.
 
 /app/chroma_store/
 *.bin
