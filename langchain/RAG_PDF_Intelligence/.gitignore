@@ -1,0 +1,43 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# FAISS or vector index files
+*.faiss
+*.npy
+
+# Model and embeddings cache
+huggingface_cache/
+transformers_cache/
+datasets_cache/
+
+
+# Docker
+docker-compose.override.yml
+
+
+
+
+
+
