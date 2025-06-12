@@ -30,9 +30,13 @@ This agent intelligently routes user queries to the best processing path (LLM, R
 📦 Setup
 
 git clone https://github.com/IpsheetaSahoo/AgenticAI_1.git
+
 cd langgraph
+
 cd Projects
+
 cd legal_research_agent
+
 pip install -r requirements.txt
 
 ▶️ Run the Agent
