@@ -60,6 +60,9 @@ Plan a 5-day vacation to Thailand
 What’s the best laptop under ₹50,000?
 
 📸 UI Preview
+
+
+
 ![image](https://github.com/user-attachments/assets/5ff6682a-4c06-4386-913e-61ac25d716bf)
 
 
