@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Jupyter and Streamlit artifacts
+.ipynb_checkpoints/
+.streamlit/
+
+# VSCode project settings
+.vscode/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Logs & local files
+*.log
+logs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Test outputs or scratch files
+*.tmp
+*.bak
+
+# Image assets (optional)
+*.png
+*.jpg
+
+# PyCharm project files
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# LangGraph cache/state
+langgraph_cache/
