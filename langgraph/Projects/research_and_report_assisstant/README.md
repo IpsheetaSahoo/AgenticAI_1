@@ -1,5 +1,7 @@
 
 🧠 LangGraph Agentic Workflow
+
+
 This project demonstrates a modular multi-agent architecture using LangGraph in a Jupyter Notebook environment. It supports intelligent routing for research and reporting tasks using a Supervisor-Agent model.
 
 
