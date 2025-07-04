@@ -24,6 +24,12 @@ Notebook Cells:
    - Sample queries covering all paths
   
 
+**Langgraph flow diagram**
+
+![image](https://github.com/user-attachments/assets/afd16ef7-b1f5-4f37-9a69-5acf718d6e31)
+
+  
+
 ---
 
 ## 💪 Agents & Responsibilities
