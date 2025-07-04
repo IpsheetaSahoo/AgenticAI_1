@@ -1,0 +1,7 @@
+python-dotenv
+langchain-openai
+langchain-community
+typing
+langgraph
+langgraph.schema
+python-docx
