@@ -1,0 +1,61 @@
+{
+  "opportunity_id": "NEW-OPP-A",
+  "phases": [
+    {
+      "id": "PH-001",
+      "name": "Discovery & Requirements",
+      "duration_days": 2,
+      "dependencies": []
+    },
+    {
+      "id": "PH-002",
+      "name": "Salesforce Trigger & Data Mapping",
+      "duration_days": 4,
+      "dependencies": [
+        "PH-001"
+      ]
+    },
+    {
+      "id": "PH-003",
+      "name": "Docxtemplater Template & Merge",
+      "duration_days": 5,
+      "dependencies": [
+        "PH-002"
+      ]
+    },
+    {
+      "id": "PH-004",
+      "name": "Bottom-Up Estimation Table Integration",
+      "duration_days": 3,
+      "dependencies": [
+        "PH-003"
+      ]
+    },
+    {
+      "id": "PH-005",
+      "name": "Similarity Service for Calibration",
+      "duration_days": 3,
+      "dependencies": [
+        "PH-004"
+      ]
+    },
+    {
+      "id": "PH-006",
+      "name": "S3 Upload & Salesforce Linkback",
+      "duration_days": 1,
+      "dependencies": [
+        "PH-005"
+      ]
+    },
+    {
+      "id": "PH-007",
+      "name": "QA, Guardrails & UAT",
+      "duration_days": 1,
+      "dependencies": [
+        "PH-006"
+      ]
+    }
+  ],
+  "total_duration_days": 19,
+  "notes": "Calibrated durations from top-3 similar opportunities [OP-006 (0.3487), OP-007 (0.2367), OP-008 (0.1925)]: Document Generation with Docxtemplater; Salesforce \u2192 Zoma Platform Events; Vector Search for Opportunity Similarity. Weights emphasize overlapping components: Docxtemplater, Salesforce integration, vector similarity, and S3 linking. Phases are sequential to simplify dependency management; guardrails and UAT ensure strict JSON outputs and linkage integrity."
+}

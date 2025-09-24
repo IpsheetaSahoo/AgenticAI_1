@@ -1,0 +1,18 @@
+{
+  "id": "NEW-OPP-A",
+  "title": "Salesforce + Docxtemplater SOW Automation",
+  "industry": "Professional Services",
+  "country": "USA",
+  "description": "A customer wants Zoma to automatically generate a Statement of Work (SOW) when their Salesforce opportunity\nreaches the 'Proposal' stage. The SOW must be based on a Docxtemplater template, include a bottom-up estimation\ntable, and reference past similar opportunities to calibrate phase durations. The system should also push the\ngenerated document to S3 and link it back in Salesforce.",
+  "required_components": [
+    "Salesforce Integration",
+    "Docxtemplater",
+    "S3 Upload",
+    "Opportunity Similarity"
+  ],
+  "constraints": [
+    "Strict JSON schema for phase breakdown output",
+    "Budget awareness: minimize LLM tokens",
+    "Latency target: < 5s end-to-end on average for top-3 similarity + generation (mock acceptable)"
+  ]
+}

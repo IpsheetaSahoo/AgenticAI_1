@@ -1,0 +1,296 @@
+[
+  {
+    "id": "OP-001",
+    "title": "CRM Implementation for Mid-Market SaaS",
+    "industry": "SaaS",
+    "country": "USA",
+    "description": "End-to-end Salesforce Sales Cloud implementation including lead routing, opportunity stages, basic reports, and SSO via Okta.",
+    "components": [
+      "Salesforce Sales Cloud",
+      "SSO (Okta)",
+      "Reports & Dashboards"
+    ],
+    "estimated_effort_hours": 420,
+    "team": {
+      "pm": 0.5,
+      "solution_arch": 0.5,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "salesforce",
+      "okta",
+      "crm",
+      "reports"
+    ]
+  },
+  {
+    "id": "OP-002",
+    "title": "Healthcare Patient Portal Rollout",
+    "industry": "Healthcare",
+    "country": "Canada",
+    "description": "Deploy a secure patient portal with messaging, appointment booking, and HIPAA-aligned access controls; integrate with EHR via FHIR APIs.",
+    "components": [
+      "Web App",
+      "FHIR API Integration",
+      "Role-Based Access Control"
+    ],
+    "estimated_effort_hours": 780,
+    "team": {
+      "pm": 1,
+      "solution_arch": 1,
+      "devs": 3,
+      "qa": 2
+    },
+    "tags": [
+      "healthcare",
+      "fhir",
+      "security",
+      "portal"
+    ]
+  },
+  {
+    "id": "OP-003",
+    "title": "Data Pipeline for Billing Analytics",
+    "industry": "FinTech",
+    "country": "UK",
+    "description": "Ingest billing events from Stripe, transform to a unified schema, warehouse in Snowflake, and build KPI dashboards.",
+    "components": [
+      "Stripe",
+      "Snowflake",
+      "ETL",
+      "Dashboard"
+    ],
+    "estimated_effort_hours": 360,
+    "team": {
+      "pm": 0.25,
+      "solution_arch": 0.25,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "stripe",
+      "etl",
+      "analytics",
+      "snowflake"
+    ]
+  },
+  {
+    "id": "OP-004",
+    "title": "SSO + SCIM for Enterprise HR",
+    "industry": "HR Tech",
+    "country": "Germany",
+    "description": "Implement SSO (SAML) and automated user provisioning (SCIM) for an enterprise customer; include just-in-time (JIT) role mapping.",
+    "components": [
+      "SAML",
+      "SCIM",
+      "JIT Roles"
+    ],
+    "estimated_effort_hours": 240,
+    "team": {
+      "pm": 0.25,
+      "solution_arch": 0.5,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "sso",
+      "scim",
+      "security"
+    ]
+  },
+  {
+    "id": "OP-005",
+    "title": "Bottom-Up Estimation Template Builder",
+    "industry": "Professional Services",
+    "country": "Israel",
+    "description": "Design and build a bottom-up estimation Excel template and import service, including validation and line-item rules.",
+    "components": [
+      "Excel Import",
+      "Validation Rules",
+      "Template Designer"
+    ],
+    "estimated_effort_hours": 220,
+    "team": {
+      "pm": 0.25,
+      "solution_arch": 0.25,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "excel",
+      "estimation",
+      "validation"
+    ]
+  },
+  {
+    "id": "OP-006",
+    "title": "Document Generation with Docxtemplater",
+    "industry": "Professional Services",
+    "country": "USA",
+    "description": "Generate SOW and Proposal documents using Docxtemplater with custom tags, conditional content, and image placeholders.",
+    "components": [
+      "Docxtemplater",
+      "S3 Storage",
+      "Template Tags"
+    ],
+    "estimated_effort_hours": 180,
+    "team": {
+      "pm": 0.25,
+      "solution_arch": 0.25,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "docxtemplater",
+      "export",
+      "sow",
+      "proposal"
+    ]
+  },
+  {
+    "id": "OP-007",
+    "title": "Salesforce \u2192 Zoma Platform Events",
+    "industry": "SaaS",
+    "country": "USA",
+    "description": "Implement Salesforce Platform Events to notify Zoma on opportunity stage changes and attachments updates.",
+    "components": [
+      "Salesforce Platform Events",
+      "Named Credentials",
+      "Event Handler"
+    ],
+    "estimated_effort_hours": 140,
+    "team": {
+      "pm": 0.25,
+      "solution_arch": 0.25,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "salesforce",
+      "events",
+      "integration"
+    ]
+  },
+  {
+    "id": "OP-008",
+    "title": "Vector Search for Opportunity Similarity",
+    "industry": "Professional Services",
+    "country": "USA",
+    "description": "Build an embedding-based similarity search across past opportunities, combining titles, descriptions, and tags with metadata filters.",
+    "components": [
+      "Embeddings",
+      "Vector DB",
+      "Metadata Filters"
+    ],
+    "estimated_effort_hours": 260,
+    "team": {
+      "pm": 0.25,
+      "solution_arch": 0.5,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "embeddings",
+      "vector",
+      "similarity"
+    ]
+  },
+  {
+    "id": "OP-009",
+    "title": "Kantata OX Sync",
+    "industry": "Professional Services",
+    "country": "USA",
+    "description": "Sync opportunities to Kantata OX upon Closed Won; map fields and validate errors. Provide a reconciliation dashboard.",
+    "components": [
+      "Kantata OX",
+      "Mapper",
+      "Reconciliation UI"
+    ],
+    "estimated_effort_hours": 300,
+    "team": {
+      "pm": 0.5,
+      "solution_arch": 0.5,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "kantata",
+      "sync",
+      "salesforce"
+    ]
+  },
+  {
+    "id": "OP-010",
+    "title": "Top-Down AI Chat for Estimation",
+    "industry": "Professional Services",
+    "country": "USA",
+    "description": "Enable a persistent AI chat that helps PMs estimate phases and risks; enforce strict JSON outputs for timelines.",
+    "components": [
+      "LLM Chat",
+      "JSON Schema",
+      "Guardrails"
+    ],
+    "estimated_effort_hours": 320,
+    "team": {
+      "pm": 0.5,
+      "solution_arch": 0.5,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "ai",
+      "chat",
+      "timeline",
+      "json"
+    ]
+  },
+  {
+    "id": "OP-011",
+    "title": "Mixpanel Product Analytics Enablement",
+    "industry": "SaaS",
+    "country": "USA",
+    "description": "Track key events across Zoma app; set up funnels and retention reports; data governance with event naming conventions.",
+    "components": [
+      "Mixpanel",
+      "Event Taxonomy",
+      "Governance"
+    ],
+    "estimated_effort_hours": 120,
+    "team": {
+      "pm": 0.25,
+      "solution_arch": 0.25,
+      "devs": 1,
+      "qa": 1
+    },
+    "tags": [
+      "analytics",
+      "mixpanel",
+      "events"
+    ]
+  },
+  {
+    "id": "OP-012",
+    "title": "Playwright E2E for AI Features",
+    "industry": "Professional Services",
+    "country": "USA",
+    "description": "Write Playwright tests to validate AI-assisted timeline generation and guardrails for invalid JSON outputs.",
+    "components": [
+      "Playwright",
+      "CI",
+      "Mock LLM"
+    ],
+    "estimated_effort_hours": 160,
+    "team": {
+      "pm": 0.25,
+      "solution_arch": 0.25,
+      "devs": 2,
+      "qa": 1
+    },
+    "tags": [
+      "testing",
+      "playwright",
+      "ai"
+    ]
+  }
+]
