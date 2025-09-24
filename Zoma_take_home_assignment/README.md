@@ -1,4 +1,4 @@
-# Zoma — AI Engineer Take‑Home (Offline, Deterministic)
+# Zoma — Take‑Home Assignment
 
 ## How to Run
 ```bash
